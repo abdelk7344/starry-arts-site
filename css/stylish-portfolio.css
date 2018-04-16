@@ -87,7 +87,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Starry_Night.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,6 +97,7 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color:white;
 }
 
 @media (min-width: 992px) {
@@ -215,7 +216,7 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.1) 100%), url("../img/pic5.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -225,7 +226,8 @@ h6 {
   font-size: 3.5rem;
   font-weight: 700;
   display: block;
-  max-width: 30rem;
+  max-width: 50rem;
+  color: white;
 }
 
 .portfolio-item {
@@ -365,3 +367,4 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
