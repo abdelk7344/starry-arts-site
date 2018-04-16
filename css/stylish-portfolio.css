@@ -37,6 +37,7 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  font-size: 19px;
 }
 
 /* Map */
@@ -216,7 +217,7 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.1) 100%), url("../img/pic5.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.3)), url("../img/pic5.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
